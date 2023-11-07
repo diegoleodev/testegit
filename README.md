@@ -6,4 +6,5 @@
 
 # Salvando modificações no Git - 02
 
+# comando git pull
 
